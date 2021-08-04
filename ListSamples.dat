@@ -1,0 +1,7 @@
+#List the prefixes for the file names (before "_1.fastq.gz"), one under the other, and make sure this list is found in the same directory that you defined as the working directions in your sbatch script. Example below.
+
+SRR8239847
+SRR8239848
+SRR8239849
+SRR8239850
+SRR8239851
