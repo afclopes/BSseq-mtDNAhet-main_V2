@@ -19,7 +19,7 @@ Multi-omics has allowed for the investigation of multiple features of bulk and s
 Here we present MitoCall, a scalable and versatile pipeline for the analysis of mitochondrial DNA parameters. MitoCall reliably identifies and quantifies heteroplasmic variants using multiple quality controls including removing PCR duplicates to ensure both strand support, setting thresholds for mapping, base
 and variant calling, and defining a minimum read count before determining heteroplasmic fractions. In addition, the workflow of MitoCall allows for parallel computation of multiple samples and usage on data from humans and mice. The output is reported in easy-to-handle tables facilitating further data visualisation steps.
 
-*Availability*
+#### *Availability*
 The MitoCall pipeline is available on GitHub (https://github.com/afclopes/BSseq-mtDNAhet-main_V2).
 
 
